@@ -1,0 +1,8 @@
+{
+  "name": "agenticai-landing",
+  "version": "2.0.0",
+  "description": "#AgenticAI - Modular Multilingual Landing (ES/EN/RU/ZH)",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
